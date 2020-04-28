@@ -6,3 +6,6 @@ plotly-express
 voila
 numpy
 ipywidgets
+dash
+flask
+json
