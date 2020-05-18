@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/duarteocarmo/interactive-dashboard-post/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2FDashboard.ipynb)  [![Python](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)  [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://duarteocarmo.com)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paraguz1/solicitudes-dashboard/master?urlpath=%2Fvoila%2Frender%2Fnotebooks%2FSolicitudes_bajav16.ipynb)  [![Python](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)  [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://duarteocarmo.com)
 
 # From notebook to web application 📔​+🔮=💥 
 
