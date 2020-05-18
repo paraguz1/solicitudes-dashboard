@@ -8,3 +8,4 @@ numpy
 ipywidgets
 dash
 flask
+voila-vuetify
